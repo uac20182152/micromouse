@@ -2,7 +2,7 @@
 # Simulador Micromouse
 ### Projeto de Sistemas Operativos
 **2020, Francisco Mendonça, Gil Silva, Rui Bento (Grupo 1)**
-Informática - Redes e Multimédia, Universidade dos Açores
+**Informática - Redes e Multimédia, Universidade dos Açores**
 
 ## Introdução
 Um simulador de modelo cliente/servidor, escrito em C, do desafio Micromouse, no qual pequenos robôs tentam resolver um labirinto, chegando ao seu objetivo.
