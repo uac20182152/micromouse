@@ -24,10 +24,7 @@ void getsurroundings(int *surroundings, int **maze, int *pos, int moved, int mod
     surroundings[3] = maze[pos[1]-1][pos[0]];
     */
   }
-  //se estiver no modo wasd teclas não há direção (representado por 4)
-  //if (mode==0) surroundings[4]=4;
-  //se estiver no modo wad vai buscar a direção a pos[2]
-  //else
+  //surroundings[4] guarda a direção, representada por pos[2]
   surroundings[4] = pos[2];
   //moved é um booleano que indica se houve movimento ou não (é um parametro)
   surroundings[5] = moved;
